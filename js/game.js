@@ -20,6 +20,8 @@ cardHeader.src = imagePath;
 
 });
 });
+
+//logic
  
 let totalPrice = 0;
 
